@@ -13,7 +13,7 @@ In a second step, after we analysed the execution of those pen and paper algorit
 * [**Python Mode for Processing**](https://github.com/jdf/processing.py#python-mode-for-processing) by Johnatan Feinberg
 * **Crosshatch Image** – which is included in this repo
 
-To execute the **topolade algorithm** copy and open this repos processing sketch with Processing. Be sure to switch to the python mode. 
+To execute the **topolade algorithm** copy and open this repos processing sketch **topoplade** with Processing. Be sure to switch to the python mode once installed. 
 
 
 ##What it does
